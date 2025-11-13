@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Sainath Reddy</h2>
 
 <p align="left">
-🌟 AI Enthusiast specializing in Generative AI, LLMs, Python, .NET, Azure, AWS, AKS, DevOps, LangChain, LlamaIndex, ReactJS, and more.<br>
+🌟 AI Enthusiast specializing in Generative AI, LLMs, Python, .NET, Azure, AWS, AKS, DevOps, LangChain, LlamaIndex, ReactJS, NodeJs.<br>
 🚀 Crafting cutting-edge solutions and passionate about building the future with code.<br>
 💡 Always exploring new technologies and sharing what I learn!
 </p>

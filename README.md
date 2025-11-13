@@ -9,8 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🏢 Currently at **PEPSICO** | Based in Hyderabad  
-- 📫 Reach me at **[your.email@domain.com]**  
+- 🏢 Currently at **EXL** | Based in Hyderabad   
 - 💼 Connect on [LinkedIn](https://linkedin.com/in/sainath-reddy-873802173)  
 - 🧠 Always learning about LLMs, cloud, and AI applications  
 - 💬 Ask me about: AI, cloud, chatbots, .NET, Python, Azure, AWS, AKS, DevOps, LangChain, LlamaIndex, ReactJS

@@ -38,17 +38,10 @@
   <img src="https://img.shields.io/badge/Conversational%20AI-28b463?style=flat&logo=wechat&logoColor=white" alt="Conversational AI & Chatbots" height="40"/>
   <img src="https://img.shields.io/badge/AI%20Agents-2471a3?style=flat&logo=autogpt&logoColor=white" alt="AI Agents" height="40"/>
   <img src="https://img.shields.io/badge/AgentCore-a45ee5?style=flat&logo=botpress&logoColor=white" alt="AgentCore" height="40"/>
-  <span><b>and more industry standard tools</b></span>
+
 
 ---
 
-### 📈 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nameissainath&show_icons=true&theme=tokyonight" alt="Sainath's GitHub stats"/>
-</p>
-
----
 
 ### 📌 Pinned Projects
 - [CrewAI-Langgraph](https://github.com/nameissainath/CrewAI-Langgraph): Jupyter Notebook, LLMs

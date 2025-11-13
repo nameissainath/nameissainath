@@ -32,9 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="40"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="40"/>
-  <img src="https://img.shields.io/badge/LangChain-0052CC?style=flat&logo=langchain&logoColor=white" alt="LangChain" height="40"/>
+  <img src="https://img.shields.io/badge/LangChain-0052CC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9JzE2JyB3aWR0aD0nMTYnIHZpZXdCb3g9JzAgMCAxNiAxNicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48cmVjdCBmaWxsPSIjMDA1MkNDIiBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiIHJ4PSIzIi8+PHBhdGggZD0iTTQgMyBoOCB2OCA0IDRoLTEyIHYtOCA0LTQiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="LangChain" height="40"/>
   <img src="https://img.shields.io/badge/LlamaIndex-3423A6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+PHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSIjMzQyM0E2Ii8+PC9zdmc+" alt="LlamaIndex" height="40"/>
-</p>
+  <img src="https://img.shields.io/badge/Conversational%20AI-28b463?style=flat&logo=wechat&logoColor=white" alt="Conversational AI & Chatbots" height="40"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-2471a3?style=flat&logo=autogpt&logoColor=white" alt="AI Agents" height="40"/>
+  <img src="https://img.shields.io/badge/AgentCore-a45ee5?style=flat&logo=botpress&logoColor=white" alt="AgentCore" height="40"/>
+  <span><b>and more industry standard tools</b></span>
 
 ---
 

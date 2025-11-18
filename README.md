@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🏢 Currently at **EXL** | Based in Hyderabad   
+- 🏢 Currently at **EXL**   
 - 💼 Connect on [LinkedIn](https://linkedin.com/in/sainath-reddy-873802173)  
 - 🧠 Always learning about LLMs, cloud, and AI applications  
 - 💬 Ask me about: AI, cloud, chatbots, .NET, Python, Azure, AWS, AKS, DevOps, LangChain, LlamaIndex, ReactJS

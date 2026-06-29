@@ -6,7 +6,6 @@
 <a href="https://www.linkedin.com/in/sainath-reddy-873802173/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=nameissainath&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -65,13 +64,6 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nameissainath&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameissainath&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=nameissainath&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nameissainath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
@@ -81,7 +73,11 @@
 
 | Project | What it does |
 | :-- | :-- |
+| 🦜 [**deepagents-langchain-cookbook**](https://github.com/nameissainath/deepagents-langchain-cookbook) | Hands-on LangChain DeepAgents — subagents, human-in-the-loop, permissions & long-term memory |
+| 🔭 [**llm-observability-mlflow-langsmith**](https://github.com/nameissainath/llm-observability-mlflow-langsmith) | Tracing & evaluating LLM apps with MLflow + LangSmith |
+| ⚖️ [**mcp-tool-context-compare**](https://github.com/nameissainath/mcp-tool-context-compare) | Benchmarks a large multi-tool agent context vs a lean 4-tool plugin engine |
 | 🤖 [**CrewAI-Langgraph**](https://github.com/nameissainath/CrewAI-Langgraph) | Multi-agent orchestration with CrewAI + LangGraph |
+| 🎓 [**saiapp-demo-students**](https://github.com/nameissainath/saiapp-demo-students) | Teaching demo: deploying Python apps with Docker, ACR & AKS |
 | 📄 [**Multiple-PDF-Openai**](https://github.com/nameissainath/Multiple-PDF-Openai) | Upload & query multiple PDFs, powered by GPT |
 | 💬 [**Azure_ReactJS**](https://github.com/nameissainath/Azure_ReactJS) | Azure-powered chatbot with a ReactJS front end |
 | 🧩 [**MicrosoftBotframeworkv4**](https://github.com/nameissainath/MicrosoftBotframeworkv4) | Adaptive cards, Cosmos DB, SQL & middleware patterns |

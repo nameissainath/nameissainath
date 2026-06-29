@@ -67,10 +67,11 @@
 
 <br/>
 
-
+<img src="https://streak-stats.demolab.com/?user=nameissainath&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=nameissainath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
